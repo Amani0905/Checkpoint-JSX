@@ -1,0 +1,31 @@
+.App{
+    background-color: black;
+}
+
+.image{
+    width: 40%;
+    height: 300px;
+    padding: 80px;
+}
+
+.form{
+    display: flex;
+}
+
+.myvideo{
+    display: flex;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.myvideo{
+    height: auto;
+    padding-top: 10px;
+}
